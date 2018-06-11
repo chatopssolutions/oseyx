@@ -64,11 +64,11 @@ tba
 
 ## Future Development
 
-* Implement OpenWeather API signup
-* Twitter API signup for new setups
 * ~~Twitter account designated for service~~ [@oseyx](https://twitter.com/oseyx)
+* AzureAD deployment for rapid deployment
 * Heroku deployment script for rapid deployment
-* TravisCI testing
+* PoSH validity testing
+* AppVeyor testing
 * RaspberryPi deployment script
 * Aptitude deployment setup
 * Realtime response vs timed response
