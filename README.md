@@ -75,6 +75,8 @@ tba
 * iOS management app
 * Android management app
 
+## MS Teams
+![oseyx::MSTeams](https://preview.ibb.co/jDdqS8/oseyxv1.png)
 
 ## License
 
